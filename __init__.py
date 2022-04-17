@@ -20,7 +20,7 @@ bl_info = {
 	"name": "iToad",
 	"description": "Demo addon for showcasing the blender-addon-updater module",
 	"author": "Patrick W. Crawford, neomonkeus",
-	"version": (1, 2, 0),
+	"version": (1, 3, 0),
 	"blender": (2, 80, 0),
 	"location": "View 3D > Tool Shelf > Demo Updater",
 	"warning": "",
